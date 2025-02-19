@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mehkan Arshad
-- 👀 I’m interested in ruby on rails| javascript | react |HTML CSS
-- 🌱 I’m currently learning react
+- 👀 I’m interested in ruby on rails| javascript | react |HTML CSS | React
 - 📫 bc220423933mar@vu.edu.pk
 
 <!---
